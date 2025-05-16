@@ -1,0 +1,54 @@
+Student Attendance System - Project Timeline
+===================================================
+                           Week 1   Week 2   Week 3   Week 4   Week 5   Week 6
+                          |-------|-------|-------|-------|-------|-------|
+Project Planning          |XXXXXXX|       |       |       |       |       |
+  Define requirements     |XXXXX  |       |       |       |       |       |
+  Design database schema  |  XXXX |       |       |       |       |       |
+  Create project structure|    XXX|       |       |       |       |       |
+                          |       |       |       |       |       |       |
+Database Implementation   |  XXXXX|XXX    |       |       |       |       |
+  Create schema           |  XXXXX|       |       |       |       |       |
+  Implement connection    |       |XX     |       |       |       |       |
+  Create default admin    |       |X      |       |       |       |       |
+                          |       |       |       |       |       |       |
+Authentication System     |       |XXXX   |       |       |       |       |
+  Login/logout            |       |XX     |       |       |       |       |
+  Password hashing        |       | X     |       |       |       |       |
+  Role-based permissions  |       | X     |       |       |       |       |
+                          |       |       |       |       |       |       |
+Admin Functions           |       |  XXXXX|XXX    |       |       |       |
+  Student management      |       |  XXXXX|       |       |       |       |
+  Course management       |       |       |XX     |       |       |       |
+  Enrollment management   |       |       | XX    |       |       |       |
+  User management         |       |       |  X    |       |       |       |
+                          |       |       |       |       |       |       |
+Instructor Functions      |       |       |  XXXXX|XX     |       |       |
+  Course view             |       |       |  XX   |       |       |       |
+  Attendance recording    |       |       |    XXX|X      |       |       |
+  Viewing records         |       |       |       |X      |       |       |
+                          |       |       |       |       |       |       |
+Reporting Functions       |       |       |       | XXXXX |       |       |
+  Course reports          |       |       |       | XXX   |       |       |
+  Student reports         |       |       |       |   XXX |       |       |
+  CSV export              |       |       |       |     XX|       |       |
+                          |       |       |       |       |       |       |
+User Interface            |       |XXXXXXX|XXXXXXX|XXXXXXX|XX     |       |
+  Menu structure          |       |XXXX   |       |       |       |       |
+  Navigation flow         |       |    XXX|XXX    |       |       |       |
+  Form validation         |       |       |   XXXX|XXXX   |       |       |
+  UI improvements         |       |       |       |    XXX|XX     |       |
+                          |       |       |       |       |       |       |
+Testing                   |       |       |  XXXXX|XXXXXXX|XXXXX  |       |
+  Unit testing            |       |       |  XXXXX|XX     |       |       |
+  Integration testing     |       |       |       |  XXXXX|XX     |       |
+  User acceptance testing |       |       |       |       |XXXX   |       |
+                          |       |       |       |       |       |       |
+Documentation             |       |       |       |       | XXXXXX|XX     |
+  User manual             |       |       |       |       | XXXX  |       |
+  Installation guide      |       |       |       |       |     XX|       |
+  Comments and docstrings |       |       |       |       |     XX|XX     |
+                          |       |       |       |       |       |       |
+Deployment                |       |       |       |       |       |XXXX   |
+  System packaging        |       |       |       |       |       |XX     |
+  Final testing           |       |       |       |       |       | XX    | 
